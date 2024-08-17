@@ -9,7 +9,7 @@ warnings.filterwarnings("ignore")
 
 offset = 20
 imgSize =300
-db_dir = "db\A"
+db_dir = "db\C"
 counter = 0
 cap = cv2.VideoCapture(0)
 detector = HandDetector(maxHands=1)
